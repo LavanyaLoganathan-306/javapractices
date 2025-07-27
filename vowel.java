@@ -15,7 +15,7 @@ public class vowel {
         else {
             System.out.println("enter the valid alphabet");
         }
-
+      scan.close();
     }
     
 }
