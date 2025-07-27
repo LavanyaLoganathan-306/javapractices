@@ -8,7 +8,7 @@ public class ASCII {
         int ascii = (int)ch;
        System.out.println("your char:" +ch);
        System.out.println("ASCII VALUE:"+ascii);
-       
+       scan.close();
     }
     
 }
